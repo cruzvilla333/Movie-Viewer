@@ -6,7 +6,7 @@ Movie Viewer is an app that introduces networking by making calls to a movie api
 
 Time spent: 45 hours spent in total
 
-GIF link: 
+GIF link: https://www.loom.com/embed/7f92b83aa082424cb0438eadc65151f3?sid=9a29d34a-7646-4e42-89a1-a5cb627b749e
 
 ## Required Features
 
